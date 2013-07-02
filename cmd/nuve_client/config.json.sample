@@ -1,0 +1,12 @@
+{
+  "nuve_host": "http://localhost:3000",
+  "proxy": false,
+  "timeout": 3000,
+  "profiles": [
+    {
+      "name": "",
+      "id": "",
+      "key": ""
+    }
+  ]
+}
